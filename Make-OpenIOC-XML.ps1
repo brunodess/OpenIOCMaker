@@ -1,5 +1,5 @@
 ﻿##########################################################################################################################################################
-### Create IOC File from list of hashes to use on Trend Micro Endpoint Sensor
+### Create IOC File from list of hashes
 ### Input List must be only the hash values
 ### This script only creates entry for SHA 1 and MD5, other hashes are not supported
 ### 
